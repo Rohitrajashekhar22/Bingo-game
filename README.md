@@ -42,14 +42,10 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-## **WORKING VIDEO 📹**
 
-https://github.com/Avdhesh-Varshney/Bingo-Game/assets/114330097/e06cb0f3-8b6e-46bf-8344-d992e5a4bc09
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<div align="center">
-  <h3>Show some &nbsp;❤️&nbsp; by &nbsp;🌟&nbsp; this repository!</h3>
-</div>
+
 
 <a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-red?style=for-the-badge" align="right"/></a>
